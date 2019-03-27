@@ -10,4 +10,8 @@ public class Test1 {
         System.out.println("test");
     }
 
+    private static void test2(){
+        System.out.println("test2");
+    }
+
 }
